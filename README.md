@@ -18,8 +18,8 @@
 ポートフォリオでは以下をご覧いただけます：
 
 - ✨ 自己紹介（キャリア・志向・スキル）
-- 🚀 開発プロダクト（サービス概要、技術スタック、GitHubリンク）
-- 🛠 使用技術の一覧（ロゴ付きで見やすく整理）
+- 🚀 開発プロダクト
+- 🛠 使用技術の一覧
 - 📫 SNSやコンタクト情報
 
 ---
@@ -32,13 +32,3 @@
 | フレームワーク | Ruby on Rails 7 / React 18 / Next.js 15 (App Router) |
 | インフラ | Supabase / Clerk / Render / S3 / PostgreSQL / Docker |
 | その他 | Prisma / Tailwind CSS / Vite / OpenAI API |
-
----
-
-## 📫 お問い合わせ・SNS
-
-- 📧 Email: h2skawata@gmail.com
-- 🐦 [X (旧Twitter)](https://x.com/Kawa_Rubypg)
-- 📘 [Zenn](https://zenn.dev/kawatako)
-- 📝 [note](https://note.com/kawatako_blog)
-- 💻 [GitHub](https://github.com/kawatako)
