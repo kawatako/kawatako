@@ -1,35 +1,44 @@
-### 📝自己紹介 
+# 🧑‍💻 kawatako
 
-営業企画・新規サービス企画・法人営業などを経て、現在はモダン技術でプロダクト開発を行うフルスタック志向のエンジニアを目指しています。
+こんにちは！  
+法人営業／企画からプロダクト開発へ。  
+モダン技術と企画力を武器に、ゼロイチをつくり出すフルスタックエンジニアを目指しています。
 
-🎯 強み：企画力 × 瞬発力 × 推進力  
-🎲 趣味：筋トレ・ボードゲーム・アニメ鑑賞・ストリートダンス・ポーカー
-
----
-
-### 🔗 ポートフォリオはこちら！
-
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%F0%9F%91%89-blue?style=for-the-badge)](https://kawatako.github.io/)
+- 🎯 **経験**：営業企画 → 新規サービス立ち上げ → 法人営業・マーケティング
+- 💻 **関心**：Webアプリ開発／AI×ユーザー体験／個人開発による価値創出
+- 🎲 **趣味**：筋トレ・ポーカー・アニメ・ボードゲーム・ダンス・大人数イベント
 
 ---
 
-### 🛠 主な技術スタック
+## 🔗 ポートフォリオはこちら！
 
-| 言語・フレームワーク | インフラ・ツール     |
-|----------------------|----------------------|
-| Javascript, TypeScript    | Docker, PostgreSQL  |
-| React, Next.js        | Supabase, Clerk, Prisma      |
-| Ruby, Rails    | Tailwind CSS   |
+[![View Portfolio](https://img.shields.io/badge/Portfolio%20Site-%E8%A6%A7%E8%A6%A7%E3%81%99%E3%82%8B-blue?style=for-the-badge)](https://kawatako.github.io)
+
+自分自身の強みや価値観、開発したプロダクトを1ページにまとめています。  
+ポートフォリオでは以下をご覧いただけます：
+
+- ✨ 自己紹介（キャリア・志向・スキル）
+- 🚀 開発プロダクト（サービス概要、技術スタック、GitHubリンク）
+- 🛠 使用技術の一覧（ロゴ付きで見やすく整理）
+- 📫 SNSやコンタクト情報
 
 ---
 
-### 📫 連絡先・SNS
+## 🛠 使用技術（主要）
 
-- ✉️ h2skawata@gmail.com  
-- 🐦 [X (旧Twitter)](https://x.com/Kawa_Rubypg)  
-- 📘 [Zenn](https://zenn.dev/kawatako)  
+| 分類 | 技術・ツール |
+|------|--------------|
+| 言語 | Ruby / TypeScript |
+| フレームワーク | Ruby on Rails 7 / React 18 / Next.js 15 (App Router) |
+| インフラ | Supabase / Clerk / Render / S3 / PostgreSQL / Docker |
+| その他 | Prisma / Tailwind CSS / Vite / OpenAI API |
+
+---
+
+## 📫 お問い合わせ・SNS
+
+- 📧 Email: h2skawata@gmail.com
+- 🐦 [X (旧Twitter)](https://x.com/Kawa_Rubypg)
+- 📘 [Zenn](https://zenn.dev/kawatako)
 - 📝 [note](https://note.com/kawatako_blog)
-
----
-
-🌱 現在は個人開発・AI活用・PWA設計などをキャッチアップ中。
+- 💻 [GitHub](https://github.com/kawatako)
