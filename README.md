@@ -15,9 +15,9 @@
 
 | 言語・フレームワーク | インフラ・ツール     |
 |----------------------|----------------------|
-| TypeScript, React    | Docker, GitHub Pages |
-| Next.js, Rails       | Supabase, Clerk      |
-| Prisma, PostgreSQL   | Vite, Tailwind CSS   |
+| Javascript, TypeScript    | Docker, PostgreSQL  |
+| React, Next.js        | Supabase, Clerk, Prisma      |
+| Ruby, Rails    | Tailwind CSS   |
 
 ---
 
