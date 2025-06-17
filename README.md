@@ -1,2 +1,2 @@
 ### 🔗 ポートフォリオはこちら！
-[![Portfolio](https://kawatako.github.io/)
+https://kawatako.github.io/
