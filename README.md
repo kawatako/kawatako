@@ -24,7 +24,7 @@
 
 | 分類 | 技術・ツール |
 |------|--------------|
-| 言語 | Ruby / TypeScript |
+| 言語 | Ruby / TypeScript / python |
 | フレームワーク | Ruby on Rails 7 / React / Next.js 15 (App Router) |
 | インフラ | Supabase / Clerk / Render / S3 / PostgreSQL / Docker |
 | その他 | Prisma / Tailwind CSS / Vite / OpenAI API |
